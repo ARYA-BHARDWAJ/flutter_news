@@ -1,16 +1,13 @@
-# news_app
 
-A new Flutter project.
+# Flutter News APP
+- This is an news app using flutter which have different categories for news. On clicking on news it opens it in web view within the app.
+- This app currently run on android and require slight changes for ios.
 
-## Getting Started
+## Instrction for buiding 
+- get api key from https://newsapi.org/
+- enter your api key in  lib/helper/news.dart file (line no 10 and 37)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![news_app](https://user-images.githubusercontent.com/37707674/81286123-305e8000-907e-11ea-85a9-8c942257827b.jpg)
